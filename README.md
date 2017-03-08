@@ -1,2 +1,2 @@
 # GAS-slack-Stamp
-slackスタンプ
+slackスタンプ on Google スプレッドシート gas

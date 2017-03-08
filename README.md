@@ -1,0 +1,2 @@
+# GAS-slack-Stamp
+slackスタンプ
